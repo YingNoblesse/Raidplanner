@@ -1998,7 +1998,7 @@ async def sysinfo_command(interaction: discord.Interaction):
 
 lade_alles()
 
-LOG_WEBHOOK_URL = "https://discord.com/api/webhooks/1515118277540708432/pX8bnpAzd3YcFxe-k3skM-tXLU1uuTbdWkiHEE3HGYwgv6gF-9LZlanQBbILK2ZFYYsZ"
+LOG_WEBHOOK_URL = ""
     
 BOT_TOKEN = ""
 bot.run(BOT_TOKEN)
